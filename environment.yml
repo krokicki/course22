@@ -1,0 +1,19 @@
+channels:
+  - defaults
+  - conda-forge
+  - fastai
+dependencies:
+  - python=3.8
+  - jupyter
+  - jupyterlab
+  - notebook
+  - jupyter_contrib_nbextensions
+  - numpy
+  - pandas
+  - matplotlib
+  - pytorch
+  - pydantic=1.8.2
+  - sentencepiece
+  - fastai
+  - openpyxl
+  - dtreeviz
